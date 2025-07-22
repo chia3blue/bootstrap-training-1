@@ -1,6 +1,6 @@
 ## About This Project (English)
 
-This page is a practice site created to understand **Bootstrap 5 components** and the **grid system**, and to learn the fundamentals of **responsive web design**. The design is based on the *“Simple Me”* template from [W3Schools](https://www.w3schools.com), with some custom style adjustments.
+This page is a practice site created to understand **Bootstrap 5 components** and the **grid system**, and to learn the fundamentals of **responsive web design**. The design is based on the *“Simple Me”* template from <a href="https://www.w3schools.com" target="_blank" rel="noopener noreferrer">W3Schools</a>, with some custom style adjustments.
 
 **Key technical points include:**
 
@@ -17,7 +17,7 @@ This site was built for learning the basics of Bootstrap, so typography, color o
 ## このプロジェクトについて（日本語）
 
 このページは、**Bootstrap 5 のコンポーネントやグリッドシステム**を理解し、**レスポンシブデザインの基礎**を学ぶために制作した練習用サイトです。  
-デザインは、[W3Schools](https://www.w3schools.com)の「*Simple Me*」テンプレートを参考にしつつ、一部スタイルを調整しています。
+デザインは、<a href="https://www.w3schools.com" target="_blank" rel="noopener noreferrer">W3Schools</a>の「*Simple Me*」テンプレートを参考にしつつ、一部スタイルを調整しています。
 
 **主な技術ポイントは以下の通りです：**
 
@@ -31,12 +31,12 @@ Bootstrapの基本を学習する目的で作成したため、タイポグラ�
 
 ### Top Page (PC)
 
-![Top Page](screenshots/preview.png)
+<img src="screenshots/preview.png" alt="Top Page" width="800">
 
 ### Mobile View
 
 #### 1. Hamburger Menu / ハンバーガーメニュー表示
-![Hamburger Menu](screenshots/preview-1-iphone-12-pro.png)
+<img src="screenshots/preview-1-iphone-12-pro.png" alt="Hamburger Menu" width="300">
 
 #### 2. Grid Single Column / スマホ表示でグリッドレイアウトが1列（縦並び）になった様子
-![Grid Single Column](screenshots/preview-2-iphone-12-pro.jpg)
+<img src="screenshots/preview-2-iphone-12-pro.jpg" alt="Grid Single Column" width="300">
