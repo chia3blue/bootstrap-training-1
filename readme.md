@@ -1,3 +1,7 @@
+# Live Demo / 公開サイト
+  
+ [https://chia3blue.github.io/bootstrap-training-1/](https://chia3blue.github.io/bootstrap-training-1/)
+
 ## About This Project (English)
 
 This page is a practice site created to understand **Bootstrap 5 components** and the **grid system**, and to learn the fundamentals of **responsive web design**. The design is based on the *“Simple Me”* template from <a href="https://www.w3schools.com" target="_blank" rel="noopener noreferrer">W3Schools</a>, with some custom style adjustments.
